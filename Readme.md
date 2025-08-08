@@ -28,7 +28,7 @@ A lightweight Java tool to convert configuration files between `.properties` and
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/configuration-file-converter.git
+git clone https://github.com/cskadir/configuration-file-converter.git
 ```
 
 ```bash
